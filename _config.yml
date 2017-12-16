@@ -1,51 +1,49 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://rohanchandra.github.io/"
+url: "https://harshitrathod.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Harshit Rathod
-  avatar: assets/img/avatar.png
-  favicon: assets/favicon.ico
+  avatar: assets/img/avatar_v1.png
+  favicon: assets/img/avatar_v1.png
   gravatar: # Email MD5 hash
   description: "An Altruistic Coder" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <h2>Hello Internet!!!</h2> I am <b>Harshit Rathod</b>, Ahmedabad based Full stack developer. This is my little digital world where I like to
+     to put my prograaming thoughts.
   header_text_feature_image:
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+  footer_text: Harshit Rathod © 2017. All Rights Reserved.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "harshitrathodddu@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "harshit.rathod.cool"
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "harshitrathod"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/harshit-rathod-068894bb/"   # Full URL
   pinterest:
-  reddit:
+  reddit: "harshitrathod"
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "Harshit__Rathod"
   wordpress:
   youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: "harshitrathod"
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 
