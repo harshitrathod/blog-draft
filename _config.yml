@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h2>Hello Internet!!!</h2> I am <b>Harshit Rathod</b>, Ahmedabad based Full stack developer. This is my little digital world where I like to
-     to put my prograaming thoughts.
+     to put my programming thoughts.
   header_text_feature_image:
   footer_text: Harshit Rathod © 2017. All Rights Reserved.
 
@@ -81,3 +81,4 @@ theme: jekyll-theme-type
 exclude:
   - Gemfile
   - Gemfile.lock
+keep_files: [.git]
