@@ -69,4 +69,4 @@ When I am done with refactoring and committing my code, I can select  "**Check 
 
 I developed this technique over the time while working on many refactoring tasks. This is like creating my refactoring checklist which tracks my progress. By doing this systematically we can reduce the probability of bugs.
 
-I am happy to have some feedback to improve this technique further
+I am happy to have some feedback to improve this technique further!
