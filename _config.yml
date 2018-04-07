@@ -42,7 +42,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-58521090-2"
   disqus_shortname: "harshitrathod"
   katex: true # Enable if using math markup
   search: true # Enable the search feature
